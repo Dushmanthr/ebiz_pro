@@ -20,7 +20,7 @@ const Home_div = () => {
                             </p>
                             <h1>Make Your Interior with more Minimalist </h1>
                             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                                Debitis quae adipisci itaque voluptate veniam esse.</p>
+                                Debitis quae adipisci itaque voluptate veniam esse!.</p>
 
                             <motion.button whileTap={{ scale: 1.2}} className="buy_btn"><Link to='/shop'>SHOP NOW</Link></motion.button>
                         </div>
